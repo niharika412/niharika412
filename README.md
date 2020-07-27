@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 -->
 ### Hi, I'm Niharika 👋
 ---
+---
 
 #### I'm a data enthusiast and software developer from India.
 
@@ -27,7 +28,7 @@ Here are some ideas to get you started:
 - 🌱 Learning more about and studying: **Deep Learning, Data Analysis, Data Visualization**.
 - 💬 Ping me about: **data science**, **data visualization**, **software**, **recommendation systems**.
 - 📫 Reach me asap: niharikapandit219@gmail.com
-- 💜 Interests: Learning languages, authentic tv shows, binge-reading books!
+- 💜 Interests: Learning languages, great tv shows, binge-reading books!
 
 
 #### Find me around the web 🌎:
