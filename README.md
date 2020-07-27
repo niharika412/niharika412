@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 - 📷 Showcasing my life in pixels on <a href="https://www.instagram.com/niharika_219/"> Instagram. </a>
 - 🌐 Updating my personal website with examples of my work on <a href="https://niharika412.github.io/">niharika412.github.io</a>
 - 🗺 Visualizing data and implementing machine learning algorithms on <a href="https://www.kaggle.com/niharika41298"> Kaggle.</a>
-"
+
 ---
 
 ⭐️ From [Niharika Pandit](https://github.com/niharika412)
