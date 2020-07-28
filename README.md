@@ -24,8 +24,8 @@ Here are some ideas to get you started:
 - ⚙️ I use daily: `.csv`, `.js`, `.erb`, `.slim`, `.html`, `.scss`, `.svg`, `.png`, `.json`, `.yml`, `.sql`
 - 🌍 I support and volunteer with: **Code Nation, Built By Girls, AllStar Code**
 - 💅 Active community member of: **Out in Tech, Techqueria, Girls Who Code**-->
-- 🌱 Learning more about and studying: **Deep Learning, Data Analysis, Data Visualization**.
-- 💬 Ping me about: **data science**, **data visualization**, **software**, **recommendation systems**.
+- 🌱 Learning more about and studying: **Python,Deep Learning, Data Analysis, Data Visualization**.
+- 💬 Ping me about: **python**,**data science**, **data visualization**, **software**, **recommendation systems**.
 - 📫 Reach me asap: niharikapandit219@gmail.com
 - 💜 Interests: Learning languages, great tv shows, binge-reading books!
 
