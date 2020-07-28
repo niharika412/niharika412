@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 -->
 ### Hi, I'm Niharika 👋
 ---
----
 
 #### I'm a data enthusiast and software developer from India.
 
