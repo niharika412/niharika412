@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 - 🌱 Learning more about and studying: **Python,Deep Learning, Data Analysis, Data Visualization**.
 - 💬 Ping me about: **python**,**data science**, **data visualization**, **software**, **recommendation systems**.
 - 📫 Reach me asap: niharikapandit219@gmail.com
-- 💜 Interests: Learning languages, great tv shows, binge-reading books, technology, science and generally anything that makes the brain tick!
+- 💜 Interests: Learning languages, great tv shows,technology, science, binge-reading books and generally anything that makes the brain tick!
 
 
 #### Find me around the web 🌎:
